@@ -1,1 +1,2 @@
-Notions de base d'algorithmie appliquée en JavaScript.
+Pour lancer l'algorithme : node *nomdufichier* dans le terminal VSC ou l'invite de commande.
+(Nécessite l'installation de node.js)
